@@ -118,21 +118,11 @@ pillow
 
 ---
 
-## 📈 Future Improvements
-
-* ✅ Add pretrained model (VGG16 / ResNet18)
-* ✅ Display confidence score
-* 🔲 Add data augmentation
-* 🔲 Integrate Streamlit / FastAPI for production
-* 🔲 Optimize model size for mobile inference
-
----
-
 ## 🧑‍💻 Author
 
-**[Your Name]**
-📧 [[your.email@example.com](mailto:your.email@example.com)]
-💼 [LinkedIn / Portfolio Link]
+**Adem Mhamdi**
+📧 [am1.adem.mhamdi@gmail.com(mailto:am1.adem.mhamdi@gmail.com)]
+💼 [LinkedIn]
 
 ---
 
