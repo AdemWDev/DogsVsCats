@@ -1,10 +1,3 @@
-Perfect — here’s a **professional, GitHub-ready README template** specifically tailored for your **Dogs vs Cats CNN classification model** (works whether you trained a custom CNN or plan to switch to VGG/ResNet later).
-
-You can copy-paste this into your project’s `README.md` file 👇
-
----
-
-````markdown
 # 🐶🐱 Dogs vs Cats Image Classifier
 
 A deep learning project that classifies images as **dogs or cats** using **Convolutional Neural Networks (CNNs)** built with **PyTorch** and deployed through a **Gradio web app**.
