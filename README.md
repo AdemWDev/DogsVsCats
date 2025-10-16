@@ -121,8 +121,8 @@ pillow
 ## 🧑‍💻 Author
 
 **Adem Mhamdi**
-📧 [am1.adem.mhamdi@gmail.com(mailto:am1.adem.mhamdi@gmail.com)]
-💼 [LinkedIn]
+📧 [am1.adem.mhamdi@gmail.com]
+💼 [LinkedIn : https://www.linkedin.com/in/adem-mhamdi-67538b376]
 
 ---
 
@@ -130,9 +130,4 @@ pillow
 
 This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
 
-```
-
----
-
-Would you like me to **auto-generate the matching `requirements.txt` and `LICENSE` files** so your repo is instantly ready for GitHub upload?
 ```
