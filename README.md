@@ -50,16 +50,23 @@ The current version uses a **custom CNN** with:
 
 > You can easily replace it with a pretrained network (e.g., VGG16 or ResNet18) for higher accuracy.
 
-Example snippet:
-
-```python
-model = models.vgg16(pretrained=True)
-for param in model.features.parameters():
-    param.requires_grad = False
-
-model.classifier[6] = nn.Linear(4096, 2)
 ```
+## 🗂️ Dataset
 
+The dataset used for training consists of **cat and dog images**.
+
+- If you’re reproducing this project, you can download a similar dataset from:
+  [Kaggle - Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats/data)
+
+Once downloaded, place it like this:
+DogsVsCats/
+└── data/
+├── train/
+│ ├── cats/
+│ └── dogs/
+└── test/
+├── cats/
+└── dogs/
 ---
 
 ## 📊 Training
@@ -72,8 +79,6 @@ model.classifier[6] = nn.Linear(4096, 2)
    python training.py
    ```
 4. The best model weights are saved as `model.pth`
-
-Training logs and accuracy plots can be added under `/logs/` or `/results/`.
 
 ---
 
