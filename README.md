@@ -34,8 +34,7 @@ DogsVsCats/
 ├── deploy.py                 # Gradio app for inference
 ├── model.pth                 # Saved trained model
 ├── requirements.txt          # Project dependencies
-├── README.md                 # Project documentation
-└── utils/                    # Helper functions (if any)
+└── README.md                 # Project documentation
 ```
 
 ---
